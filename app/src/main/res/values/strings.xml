@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"> Jobder </string>
+    <string name="login_espanol">Iniciar sesión</string>
+    <string name="change_theme">Cambiar tema</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_login_espanol1">LoginEspanolActivity1</string>
+    <string name="title_activity_login_espanol">LoginEspanolActivity</string>
+</resources>
